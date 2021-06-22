@@ -1,0 +1,5 @@
+Credentials cache: API:1012936
+        Principal: wroggo@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jun 21 18:11:36 2021  Jun 22 04:11:32 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
